@@ -18,7 +18,7 @@
 	inhand_x_dimension = 32
 	inhand_y_dimension = 32
 	w_class = WEIGHT_CLASS_SMALL
-	force = 15
+	force = 1500
 	throwforce = 25
 	wound_bonus = -10
 	bare_wound_bonus = 20
